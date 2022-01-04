@@ -1,0 +1,4710 @@
+{
+ "characters": [
+  {
+   "link": "Albedo",
+   "id": "albedo",
+   "name": "Albedo",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Aloy",
+   "id": "aloy",
+   "name": "Aloy",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Amber",
+   "id": "amber",
+   "name": "Amber",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Arataki_Itto",
+   "id": "arataki_itto",
+   "name": "Arataki Itto",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Barbara",
+   "id": "barbara",
+   "name": "Barbara",
+   "type": "characters",
+   "element": "Hydro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Beidou",
+   "id": "beidou",
+   "name": "Beidou",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Bennett",
+   "id": "bennett",
+   "name": "Bennett",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Chongyun",
+   "id": "chongyun",
+   "name": "Chongyun",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Diluc",
+   "id": "diluc",
+   "name": "Diluc",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Diona",
+   "id": "diona",
+   "name": "Diona",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Eula",
+   "id": "eula",
+   "name": "Eula",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Fischl",
+   "id": "fischl",
+   "name": "Fischl",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Ganyu",
+   "id": "ganyu",
+   "name": "Ganyu",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Gorou",
+   "id": "gorou",
+   "name": "Gorou",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Hu_Tao",
+   "id": "hu_tao",
+   "name": "Hu Tao",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Jean",
+   "id": "jean",
+   "name": "Jean",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Kaedehara_Kazuha",
+   "id": "kaedehara_kazuha",
+   "name": "Kaedehara Kazuha",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Kaeya",
+   "id": "kaeya",
+   "name": "Kaeya",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Kamisato_Ayaka",
+   "id": "kamisato_ayaka",
+   "name": "Kamisato Ayaka",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Keqing",
+   "id": "keqing",
+   "name": "Keqing",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Klee",
+   "id": "klee",
+   "name": "Klee",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Kujou_Sara",
+   "id": "kujou_sara",
+   "name": "Kujou Sara",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Lisa",
+   "id": "lisa",
+   "name": "Lisa",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Mona",
+   "id": "mona",
+   "name": "Mona",
+   "type": "characters",
+   "element": "Hydro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Ningguang",
+   "id": "ningguang",
+   "name": "Ningguang",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Noelle",
+   "id": "noelle",
+   "name": "Noelle",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Qiqi",
+   "id": "qiqi",
+   "name": "Qiqi",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Raiden_Shogun",
+   "id": "raiden_shogun",
+   "name": "Raiden Shogun",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Razor",
+   "id": "razor",
+   "name": "Razor",
+   "type": "characters",
+   "element": "Electro",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Rosaria",
+   "id": "rosaria",
+   "name": "Rosaria",
+   "type": "characters",
+   "element": "Cryo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Sangonomiya_Kokomi",
+   "id": "sangonomiya_kokomi",
+   "name": "Sangonomiya Kokomi",
+   "type": "characters",
+   "element": "Hydro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Sayu",
+   "id": "sayu",
+   "name": "Sayu",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Sucrose",
+   "id": "sucrose",
+   "name": "Sucrose",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Tartaglia",
+   "id": "tartaglia",
+   "name": "Tartaglia",
+   "type": "characters",
+   "element": "Hydro",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Thoma",
+   "id": "thoma",
+   "name": "Thoma",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Traveler",
+   "id": "traveler",
+   "name": "Traveler",
+   "type": "characters",
+   "element": "Adaptive",
+   "nation": "Player's Choice",
+   "rarity": 5,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Venti",
+   "id": "venti",
+   "name": "Venti",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Xiangling",
+   "id": "xiangling",
+   "name": "Xiangling",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Xiao",
+   "id": "xiao",
+   "name": "Xiao",
+   "type": "characters",
+   "element": "Anemo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Polearm"
+  },
+  {
+   "link": "Xingqiu",
+   "id": "xingqiu",
+   "name": "Xingqiu",
+   "type": "characters",
+   "element": "Hydro",
+   "nation": "Male",
+   "rarity": 4,
+   "weapon": "Sword"
+  },
+  {
+   "link": "Xinyan",
+   "id": "xinyan",
+   "name": "Xinyan",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Claymore"
+  },
+  {
+   "link": "Yanfei",
+   "id": "yanfei",
+   "name": "Yanfei",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 4,
+   "weapon": "Catalyst"
+  },
+  {
+   "link": "Yoimiya",
+   "id": "yoimiya",
+   "name": "Yoimiya",
+   "type": "characters",
+   "element": "Pyro",
+   "nation": "Female",
+   "rarity": 5,
+   "weapon": "Bow"
+  },
+  {
+   "link": "Zhongli",
+   "id": "zhongli",
+   "name": "Zhongli",
+   "type": "characters",
+   "element": "Geo",
+   "nation": "Male",
+   "rarity": 5,
+   "weapon": "Polearm"
+  }
+ ],
+ "bows": [
+  {
+   "link": "Polar_Star",
+   "id": "polar_star",
+   "name": "Polar Star",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Polar_Star.png",
+   "rarity": 5,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Thundering_Pulse",
+   "id": "thundering_pulse",
+   "name": "Thundering Pulse",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_Thundering_Pulse.png",
+   "rarity": 5,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Elegy_for_the_End",
+   "id": "elegy_for_the_end",
+   "name": "Elegy For The End",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Weapon_Elegy_for_the_End.png",
+   "rarity": 5,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Skyward_Harp",
+   "id": "skyward_harp",
+   "name": "Skyward Harp",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png",
+   "rarity": 5,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Amos%27_Bow",
+   "id": "amos_27_bow",
+   "name": "Amos%27 Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png",
+   "rarity": 5,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Alley_Hunter",
+   "id": "alley_hunter",
+   "name": "Alley Hunter",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Weapon_Alley_Hunter.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "The_Viridescent_Hunt",
+   "id": "the_viridescent_hunt",
+   "name": "The Viridescent Hunt",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_The_Viridescent_Hunt.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "The_Stringless",
+   "id": "the_stringless",
+   "name": "The Stringless",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_The_Stringless.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Sacrificial_Bow",
+   "id": "sacrificial_bow",
+   "name": "Sacrificial Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Rust",
+   "id": "rust",
+   "name": "Rust",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Rust.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Royal_Bow",
+   "id": "royal_bow",
+   "name": "Royal Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Bow.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Predator",
+   "id": "predator",
+   "name": "Predator",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Weapon_Predator.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Prototype_Crescent",
+   "id": "prototype_crescent",
+   "name": "Prototype Crescent",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Prototype_Crescent.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Mouun%27s_Moon",
+   "id": "mouun_27s_moon",
+   "name": "Mouun%27S Moon",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Weapon_Mouun%27s_Moon.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Mitternachts_Waltz",
+   "id": "mitternachts_waltz",
+   "name": "Mitternachts Waltz",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Weapon_Mitternachts_Waltz.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Hamayumi",
+   "id": "hamayumi",
+   "name": "Hamayumi",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Weapon_Hamayumi.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Favonius_Warbow",
+   "id": "favonius_warbow",
+   "name": "Favonius Warbow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Weapon_Favonius_Warbow.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Compound_Bow",
+   "id": "compound_bow",
+   "name": "Compound Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Compound_Bow.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Blackcliff_Warbow",
+   "id": "blackcliff_warbow",
+   "name": "Blackcliff Warbow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Weapon_Blackcliff_Warbow.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Windblume_Ode",
+   "id": "windblume_ode",
+   "name": "Windblume Ode",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Windblume_Ode.png",
+   "rarity": 4,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Raven_Bow",
+   "id": "raven_bow",
+   "name": "Raven Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Weapon_Raven_Bow.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Recurve_Bow",
+   "id": "recurve_bow",
+   "name": "Recurve Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Messenger",
+   "id": "messenger",
+   "name": "Messenger",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Sharpshooter%27s_Oath",
+   "id": "sharpshooter_27s_oath",
+   "name": "Sharpshooter%27S Oath",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Slingshot",
+   "id": "slingshot",
+   "name": "Slingshot",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Slingshot.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Ebony_Bow",
+   "id": "ebony_bow",
+   "name": "Ebony Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Weapon_Ebony_Bow.png",
+   "rarity": 3,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Seasoned_Hunter%27s_Bow",
+   "id": "seasoned_hunter_27s_bow",
+   "name": "Seasoned Hunter%27S Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Weapon_Seasoned_Hunter%27s_Bow.png",
+   "rarity": 2,
+   "weapon_type": "bows"
+  },
+  {
+   "link": "Hunter%27s_Bow",
+   "id": "hunter_27s_bow",
+   "name": "Hunter%27S Bow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Hunter%27s_Bow.png",
+   "rarity": 1,
+   "weapon_type": "bows"
+  }
+ ],
+ "claymores": [
+  {
+   "link": "Wolf%27s_Gravestone",
+   "id": "wolf_27s_gravestone",
+   "name": "Wolf%27S Gravestone",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png",
+   "rarity": 5,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Skyward_Pride",
+   "id": "skyward_pride",
+   "name": "Skyward Pride",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png",
+   "rarity": 5,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "The_Unforged",
+   "id": "the_unforged",
+   "name": "The Unforged",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_The_Unforged.png",
+   "rarity": 5,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Song_of_Broken_Pines",
+   "id": "song_of_broken_pines",
+   "name": "Song Of Broken Pines",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Song_of_Broken_Pines.png",
+   "rarity": 5,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Redhorn_Stonethresher",
+   "id": "redhorn_stonethresher",
+   "name": "Redhorn Stonethresher",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Redhorn_Stonethresher.png",
+   "rarity": 5,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Akuoumaru",
+   "id": "akuoumaru",
+   "name": "Akuoumaru",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Weapon_Akuoumaru.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Royal_Greatsword",
+   "id": "royal_greatsword",
+   "name": "Royal Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Weapon_Royal_Greatsword.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Whiteblind",
+   "id": "whiteblind",
+   "name": "Whiteblind",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Weapon_Whiteblind.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "The_Bell",
+   "id": "the_bell",
+   "name": "The Bell",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_The_Bell.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Snow-Tombed_Starsilver",
+   "id": "snow_tombed_starsilver",
+   "name": "Snow-Tombed Starsilver",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Weapon_Snow-Tombed_Starsilver.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Favonius_Greatsword",
+   "id": "favonius_greatsword",
+   "name": "Favonius Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Favonius_Greatsword.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Katsuragikiri_Nagamasa",
+   "id": "katsuragikiri_nagamasa",
+   "name": "Katsuragikiri Nagamasa",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Weapon_Katsuragikiri_Nagamasa.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Sacrificial_Greatsword",
+   "id": "sacrificial_greatsword",
+   "name": "Sacrificial Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sacrificial_Greatsword.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Serpent_Spine",
+   "id": "serpent_spine",
+   "name": "Serpent Spine",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Blackcliff_Slasher",
+   "id": "blackcliff_slasher",
+   "name": "Blackcliff Slasher",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Weapon_Blackcliff_Slasher.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Rainslasher",
+   "id": "rainslasher",
+   "name": "Rainslasher",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Rainslasher.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Prototype_Archaic",
+   "id": "prototype_archaic",
+   "name": "Prototype Archaic",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Prototype_Archaic.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Luxurious_Sea-Lord",
+   "id": "luxurious_sea_lord",
+   "name": "Luxurious Sea-Lord",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Weapon_Luxurious_Sea-Lord.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Lithic_Blade",
+   "id": "lithic_blade",
+   "name": "Lithic Blade",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Lithic_Blade.png",
+   "rarity": 4,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Quartz",
+   "id": "quartz",
+   "name": "Quartz",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_Quartz.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Skyrider_Greatsword",
+   "id": "skyrider_greatsword",
+   "name": "Skyrider Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Skyrider_Greatsword.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Debate_Club",
+   "id": "debate_club",
+   "name": "Debate Club",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Bloodtainted_Greatsword",
+   "id": "bloodtainted_greatsword",
+   "name": "Bloodtainted Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "White_Iron_Greatsword",
+   "id": "white_iron_greatsword",
+   "name": "White Iron Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Weapon_White_Iron_Greatsword.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Ferrous_Shadow",
+   "id": "ferrous_shadow",
+   "name": "Ferrous Shadow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Weapon_Ferrous_Shadow.png",
+   "rarity": 3,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Old_Merc%27s_Pal",
+   "id": "old_merc_27s_pal",
+   "name": "Old Merc%27S Pal",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Old_Merc%27s_Pal.png",
+   "rarity": 2,
+   "weapon_type": "claymores"
+  },
+  {
+   "link": "Waster_Greatsword",
+   "id": "waster_greatsword",
+   "name": "Waster Greatsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Waster_Greatsword.png",
+   "rarity": 1,
+   "weapon_type": "claymores"
+  }
+ ],
+ "polearms": [
+  {
+   "link": "Engulfing_Lightning",
+   "id": "engulfing_lightning",
+   "name": "Engulfing Lightning",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Weapon_Engulfing_Lightning.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Skyward_Spine",
+   "id": "skyward_spine",
+   "name": "Skyward Spine",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Skyward_Spine.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Primordial_Jade_Winged-Spear",
+   "id": "primordial_jade_winged_spear",
+   "name": "Primordial Jade Winged-Spear",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Calamity_Queller",
+   "id": "calamity_queller",
+   "name": "Calamity Queller",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Weapon_Calamity_Queller.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Staff_of_Homa",
+   "id": "staff_of_homa",
+   "name": "Staff Of Homa",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Vortex_Vanquisher",
+   "id": "vortex_vanquisher",
+   "name": "Vortex Vanquisher",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Weapon_Vortex_Vanquisher.png",
+   "rarity": 5,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Prototype_Starglitter",
+   "id": "prototype_starglitter",
+   "name": "Prototype Starglitter",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Weapon_Prototype_Starglitter.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Lithic_Spear",
+   "id": "lithic_spear",
+   "name": "Lithic Spear",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Lithic_Spear.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Kitain_Cross_Spear",
+   "id": "kitain_cross_spear",
+   "name": "Kitain Cross Spear",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Weapon_Kitain_Cross_Spear.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "%22The_Catch%22",
+   "id": "_22the_catch_22",
+   "name": "%22The Catch%22",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Weapon_The_Catch.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Favonius_Lance",
+   "id": "favonius_lance",
+   "name": "Favonius Lance",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Weapon_Favonius_Lance.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Dragonspine_Spear",
+   "id": "dragonspine_spear",
+   "name": "Dragonspine Spear",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Weapon_Dragonspine_Spear.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Dragon%27s_Bane",
+   "id": "dragon_27s_bane",
+   "name": "Dragon%27S Bane",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Dragon%27s_Bane.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Deathmatch",
+   "id": "deathmatch",
+   "name": "Deathmatch",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Deathmatch.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Crescent_Pike",
+   "id": "crescent_pike",
+   "name": "Crescent Pike",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Blackcliff_Pole",
+   "id": "blackcliff_pole",
+   "name": "Blackcliff Pole",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Weapon_Blackcliff_Pole.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Wavebreaker%27s_Fin",
+   "id": "wavebreaker_27s_fin",
+   "name": "Wavebreaker%27S Fin",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Weapon_Wavebreaker%27s_Fin.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Royal_Spear",
+   "id": "royal_spear",
+   "name": "Royal Spear",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Weapon_Royal_Spear.png",
+   "rarity": 4,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Halberd",
+   "id": "halberd",
+   "name": "Halberd",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png",
+   "rarity": 3,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Black_Tassel",
+   "id": "black_tassel",
+   "name": "Black Tassel",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Black_Tassel.png",
+   "rarity": 3,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "White_Tassel",
+   "id": "white_tassel",
+   "name": "White Tassel",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png",
+   "rarity": 3,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Iron_Point",
+   "id": "iron_point",
+   "name": "Iron Point",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Weapon_Iron_Point.png",
+   "rarity": 2,
+   "weapon_type": "polearms"
+  },
+  {
+   "link": "Beginner%27s_Protector",
+   "id": "beginner_27s_protector",
+   "name": "Beginner%27S Protector",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Beginner%27s_Protector.png",
+   "rarity": 1,
+   "weapon_type": "polearms"
+  }
+ ],
+ "catalysts": [
+  {
+   "link": "Lost_Prayer_to_the_Sacred_Winds",
+   "id": "lost_prayer_to_the_sacred_winds",
+   "name": "Lost Prayer To The Sacred Winds",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
+   "rarity": 5,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Skyward_Atlas",
+   "id": "skyward_atlas",
+   "name": "Skyward Atlas",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png",
+   "rarity": 5,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Everlasting_Moonglow",
+   "id": "everlasting_moonglow",
+   "name": "Everlasting Moonglow",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Weapon_Everlasting_Moonglow.png",
+   "rarity": 5,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Memory_of_Dust",
+   "id": "memory_of_dust",
+   "name": "Memory Of Dust",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Memory_of_Dust.png",
+   "rarity": 5,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Wine_and_Song",
+   "id": "wine_and_song",
+   "name": "Wine And Song",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Wine_and_Song.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "The_Widsith",
+   "id": "the_widsith",
+   "name": "The Widsith",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_The_Widsith.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Solar_Pearl",
+   "id": "solar_pearl",
+   "name": "Solar Pearl",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Solar_Pearl.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Sacrificial_Fragments",
+   "id": "sacrificial_fragments",
+   "name": "Sacrificial Fragments",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Sacrificial_Fragments.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Royal_Grimoire",
+   "id": "royal_grimoire",
+   "name": "Royal Grimoire",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Grimoire.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Prototype_Amber",
+   "id": "prototype_amber",
+   "name": "Prototype Amber",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Prototype_Amber.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Mappa_Mare",
+   "id": "mappa_mare",
+   "name": "Mappa Mare",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Hakushin_Ring",
+   "id": "hakushin_ring",
+   "name": "Hakushin Ring",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Weapon_Hakushin_Ring.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Frostbearer",
+   "id": "frostbearer",
+   "name": "Frostbearer",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Frostbearer.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Favonius_Codex",
+   "id": "favonius_codex",
+   "name": "Favonius Codex",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Eye_of_Perception",
+   "id": "eye_of_perception",
+   "name": "Eye Of Perception",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Dodoco_Tales",
+   "id": "dodoco_tales",
+   "name": "Dodoco Tales",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon_Dodoco_Tales.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Blackcliff_Agate",
+   "id": "blackcliff_agate",
+   "name": "Blackcliff Agate",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Weapon_Blackcliff_Agate.png",
+   "rarity": 4,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Magic_Guide",
+   "id": "magic_guide",
+   "name": "Magic Guide",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Otherworldly_Story",
+   "id": "otherworldly_story",
+   "name": "Otherworldly Story",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Emerald_Orb",
+   "id": "emerald_orb",
+   "name": "Emerald Orb",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Thrilling_Tales_of_Dragon_Slayers",
+   "id": "thrilling_tales_of_dragon_slayers",
+   "name": "Thrilling Tales Of Dragon Slayers",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Thrilling_Tales_of_Dragon_Slayers.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Twin_Nephrite",
+   "id": "twin_nephrite",
+   "name": "Twin Nephrite",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Amber_Catalyst",
+   "id": "amber_catalyst",
+   "name": "Amber Catalyst",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon_Amber_Catalyst.png",
+   "rarity": 3,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Pocket_Grimoire",
+   "id": "pocket_grimoire",
+   "name": "Pocket Grimoire",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Weapon_Pocket_Grimoire.png",
+   "rarity": 2,
+   "weapon_type": "catalysts"
+  },
+  {
+   "link": "Apprentice%27s_Notes",
+   "id": "apprentice_27s_notes",
+   "name": "Apprentice%27S Notes",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_Apprentice%27s_Notes.png",
+   "rarity": 1,
+   "weapon_type": "catalysts"
+  }
+ ],
+ "swords": [
+  {
+   "link": "Mistsplitter_Reforged",
+   "id": "mistsplitter_reforged",
+   "name": "Mistsplitter Reforged",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Weapon_Mistsplitter_Reforged.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Aquila_Favonia",
+   "id": "aquila_favonia",
+   "name": "Aquila Favonia",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Summit_Shaper",
+   "id": "summit_shaper",
+   "name": "Summit Shaper",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Summit_Shaper.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Skyward_Blade",
+   "id": "skyward_blade",
+   "name": "Skyward Blade",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Freedom-Sworn",
+   "id": "freedom_sworn",
+   "name": "Freedom-Sworn",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Freedom-Sworn.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Primordial_Jade_Cutter",
+   "id": "primordial_jade_cutter",
+   "name": "Primordial Jade Cutter",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png",
+   "rarity": 5,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "The_Flute",
+   "id": "the_flute",
+   "name": "The Flute",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Weapon_The_Flute.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "The_Black_Sword",
+   "id": "the_black_sword",
+   "name": "The Black Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "The_Alley_Flash",
+   "id": "the_alley_flash",
+   "name": "The Alley Flash",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_The_Alley_Flash.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Sword_of_Descension",
+   "id": "sword_of_descension",
+   "name": "Sword Of Descension",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sword_of_Descension.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Sacrificial_Sword",
+   "id": "sacrificial_sword",
+   "name": "Sacrificial Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Weapon_Sacrificial_Sword.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Royal_Longsword",
+   "id": "royal_longsword",
+   "name": "Royal Longsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Royal_Longsword.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Prototype_Rancour",
+   "id": "prototype_rancour",
+   "name": "Prototype Rancour",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Prototype_Rancour.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Amenoma_Kageuchi",
+   "id": "amenoma_kageuchi",
+   "name": "Amenoma Kageuchi",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Weapon_Amenoma_Kageuchi.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Lion%27s_Roar",
+   "id": "lion_27s_roar",
+   "name": "Lion%27S Roar",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Iron_Sting",
+   "id": "iron_sting",
+   "name": "Iron Sting",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Iron_Sting.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Festering_Desire",
+   "id": "festering_desire",
+   "name": "Festering Desire",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Weapon_Festering_Desire.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Favonius_Sword",
+   "id": "favonius_sword",
+   "name": "Favonius Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Weapon_Favonius_Sword.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Cinnabar_Spindle",
+   "id": "cinnabar_spindle",
+   "name": "Cinnabar Spindle",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Weapon_Cinnabar_Spindle.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Blackcliff_Longsword",
+   "id": "blackcliff_longsword",
+   "name": "Blackcliff Longsword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Weapon_Blackcliff_Longsword.png",
+   "rarity": 4,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Harbinger_of_Dawn",
+   "id": "harbinger_of_dawn",
+   "name": "Harbinger Of Dawn",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Fillet_Blade",
+   "id": "fillet_blade",
+   "name": "Fillet Blade",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Skyrider_Sword",
+   "id": "skyrider_sword",
+   "name": "Skyrider Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Dark_Iron_Sword",
+   "id": "dark_iron_sword",
+   "name": "Dark Iron Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Dark_Iron_Sword.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Cool_Steel",
+   "id": "cool_steel",
+   "name": "Cool Steel",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Cool_Steel.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Traveler%27s_Handy_Sword",
+   "id": "traveler_27s_handy_sword",
+   "name": "Traveler%27S Handy Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Weapon_Traveler%27s_Handy_Sword.png",
+   "rarity": 3,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Silver_Sword",
+   "id": "silver_sword",
+   "name": "Silver Sword",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Silver_Sword.png",
+   "rarity": 2,
+   "weapon_type": "swords"
+  },
+  {
+   "link": "Dull_Blade",
+   "id": "dull_blade",
+   "name": "Dull Blade",
+   "type": "weapons",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Weapon_Dull_Blade.png",
+   "rarity": 1,
+   "weapon_type": "swords"
+  }
+ ],
+ "artifacts": [
+  {
+   "link": "Initiate",
+   "id": "initiate",
+   "name": "Initiate",
+   "type": "artifacts",
+   "rarity": [
+    1
+   ],
+   "pieces": [
+    1,
+    2
+   ]
+  },
+  {
+   "link": "Adventurer",
+   "id": "adventurer",
+   "name": "Adventurer",
+   "type": "artifacts",
+   "rarity": [
+    1,
+    2,
+    3
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Lucky_Dog",
+   "id": "lucky_dog",
+   "name": "Lucky Dog",
+   "type": "artifacts",
+   "rarity": [
+    1,
+    2,
+    3
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Traveling_Doctor",
+   "id": "traveling_doctor",
+   "name": "Traveling Doctor",
+   "type": "artifacts",
+   "rarity": [
+    1,
+    2,
+    3
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Resolution_of_Sojourner",
+   "id": "resolution_of_sojourner",
+   "name": "Resolution Of Sojourner",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Tiny_Miracle",
+   "id": "tiny_miracle",
+   "name": "Tiny Miracle",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Berserker",
+   "id": "berserker",
+   "name": "Berserker",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Instructor",
+   "id": "instructor",
+   "name": "Instructor",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "The_Exile",
+   "id": "the_exile",
+   "name": "The Exile",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Defender%27s_Will",
+   "id": "defender_27s_will",
+   "name": "Defender%27S Will",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Brave_Heart",
+   "id": "brave_heart",
+   "name": "Brave Heart",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Martial_Artist",
+   "id": "martial_artist",
+   "name": "Martial Artist",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Gambler",
+   "id": "gambler",
+   "name": "Gambler",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Scholar",
+   "id": "scholar",
+   "name": "Scholar",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Prayers_for_Illumination",
+   "id": "prayers_for_illumination",
+   "name": "Prayers For Illumination",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1
+   ]
+  },
+  {
+   "link": "Prayers_for_Destiny",
+   "id": "prayers_for_destiny",
+   "name": "Prayers For Destiny",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1
+   ]
+  },
+  {
+   "link": "Prayers_for_Wisdom",
+   "id": "prayers_for_wisdom",
+   "name": "Prayers For Wisdom",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1
+   ]
+  },
+  {
+   "link": "Prayers_to_Springtime",
+   "id": "prayers_to_springtime",
+   "name": "Prayers To Springtime",
+   "type": "artifacts",
+   "rarity": [
+    3,
+    4
+   ],
+   "pieces": [
+    1
+   ]
+  },
+  {
+   "link": "Gladiator%27s_Finale",
+   "id": "gladiator_27s_finale",
+   "name": "Gladiator%27S Finale",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Wanderer%27s_Troupe",
+   "id": "wanderer_27s_troupe",
+   "name": "Wanderer%27S Troupe",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Thundersoother",
+   "id": "thundersoother",
+   "name": "Thundersoother",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Thundering_Fury",
+   "id": "thundering_fury",
+   "name": "Thundering Fury",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Maiden_Beloved",
+   "id": "maiden_beloved",
+   "name": "Maiden Beloved",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Viridescent_Venerer",
+   "id": "viridescent_venerer",
+   "name": "Viridescent Venerer",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Crimson_Witch_of_Flames",
+   "id": "crimson_witch_of_flames",
+   "name": "Crimson Witch Of Flames",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Lavawalker",
+   "id": "lavawalker",
+   "name": "Lavawalker",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Noblesse_Oblige",
+   "id": "noblesse_oblige",
+   "name": "Noblesse Oblige",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Bloodstained_Chivalry",
+   "id": "bloodstained_chivalry",
+   "name": "Bloodstained Chivalry",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Archaic_Petra",
+   "id": "archaic_petra",
+   "name": "Archaic Petra",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Retracing_Bolide",
+   "id": "retracing_bolide",
+   "name": "Retracing Bolide",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Blizzard_Strayer",
+   "id": "blizzard_strayer",
+   "name": "Blizzard Strayer",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Heart_of_Depth",
+   "id": "heart_of_depth",
+   "name": "Heart Of Depth",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Tenacity_of_the_Millelith",
+   "id": "tenacity_of_the_millelith",
+   "name": "Tenacity Of The Millelith",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Pale_Flame",
+   "id": "pale_flame",
+   "name": "Pale Flame",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Shimenawa%27s_Reminiscence",
+   "id": "shimenawa_27s_reminiscence",
+   "name": "Shimenawa%27S Reminiscence",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Emblem_of_Severed_Fate",
+   "id": "emblem_of_severed_fate",
+   "name": "Emblem Of Severed Fate",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Husk_of_Opulent_Dreams",
+   "id": "husk_of_opulent_dreams",
+   "name": "Husk Of Opulent Dreams",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "link": "Ocean-Hued_Clam",
+   "id": "ocean_hued_clam",
+   "name": "Ocean-Hued Clam",
+   "type": "artifacts",
+   "rarity": [
+    4,
+    5
+   ],
+   "pieces": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  }
+ ],
+ "materials": [
+  {
+   "type": "common_ascension_materials",
+   "id": "agents_sacrificial_knife",
+   "name": "Agent's Sacrificial Knife",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Agent%27s_Sacrificial_Knife.png",
+   "link": "/Agent%27s_Sacrificial_Knife"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "black_bronze_horn",
+   "name": "Black Bronze Horn",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+   "link": "/Black_Bronze_Horn"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "black_crystal_horn",
+   "name": "Black Crystal Horn",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+   "link": "/Black_Crystal_Horn"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_axis",
+   "name": "Chaos Axis",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+   "link": "/Chaos_Axis"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_circuit",
+   "name": "Chaos Circuit",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+   "link": "/Chaos_Circuit"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_core",
+   "name": "Chaos Core",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+   "link": "/Chaos_Core"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_device",
+   "name": "Chaos Device",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+   "link": "/Chaos_Device"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_gear",
+   "name": "Chaos Gear",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+   "link": "/Chaos_Gear"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "chaos_oculus",
+   "name": "Chaos Oculus",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Chaos_Oculus.png",
+   "link": "/Chaos_Oculus"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "concealed_claw",
+   "name": "Concealed Claw",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png",
+   "link": "/Concealed_Claw"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "concealed_talon",
+   "name": "Concealed Talon",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png",
+   "link": "/Concealed_Talon"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "concealed_unguis",
+   "name": "Concealed Unguis",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Concealed_Unguis.png",
+   "link": "/Concealed_Unguis"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "crystal_prism",
+   "name": "Crystal Prism",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+   "link": "/Crystal_Prism"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "damaged_mask",
+   "name": "Damaged Mask",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+   "link": "/Damaged_Mask"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "dead_ley_line_branch",
+   "name": "Dead Ley Line Branch",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
+   "link": "/Dead_Ley_Line_Branch"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "dead_ley_line_leaves",
+   "name": "Dead Ley Line Leaves",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+   "link": "/Dead_Ley_Line_Leaves"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "dismal_prism",
+   "name": "Dismal Prism",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+   "link": "/Dismal_Prism"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "divining_scroll",
+   "name": "Divining Scroll",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+   "link": "/Divining_Scroll"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "energy_nectar",
+   "name": "Energy Nectar",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+   "link": "/Energy_Nectar"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "famed_handguard",
+   "name": "Famed Handguard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Famed_Handguard.png",
+   "link": "/Famed_Handguard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "firm_arrowhead",
+   "name": "Firm Arrowhead",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+   "link": "/Firm_Arrowhead"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "forbidden_curse_scroll",
+   "name": "Forbidden Curse Scroll",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+   "link": "/Forbidden_Curse_Scroll"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "fossilized_bone_shard",
+   "name": "Fossilized Bone Shard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Fossilized_Bone_Shard.png",
+   "link": "/Fossilized_Bone_Shard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "fragile_bone_shard",
+   "name": "Fragile Bone Shard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+   "link": "/Fragile_Bone_Shard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "golden_raven_insignia",
+   "name": "Golden Raven Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+   "link": "/Golden_Raven_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "heavy_horn",
+   "name": "Heavy Horn",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+   "link": "/Heavy_Horn"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "hunters_sacrificial_knife",
+   "name": "Hunter's Sacrificial Knife",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+   "link": "/Hunter%27s_Sacrificial_Knife"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "inspectors_sacrificial_knife",
+   "name": "Inspector's Sacrificial Knife",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Inspector%27s_Sacrificial_Knife.png",
+   "link": "/Inspector%27s_Sacrificial_Knife"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "kageuchi_handguard",
+   "name": "Kageuchi Handguard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+   "link": "/Kageuchi_Handguard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "ley_line_sprout",
+   "name": "Ley Line Sprout",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+   "link": "/Ley_Line_Sprout"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "lieutenants_insignia",
+   "name": "Lieutenant's Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+   "link": "/Lieutenant%27s_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "mist_grass",
+   "name": "Mist Grass",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+   "link": "/Mist_Grass"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "mist_grass_pollen",
+   "name": "Mist Grass Pollen",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+   "link": "/Mist_Grass_Pollen"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "mist_grass_wick",
+   "name": "Mist Grass Wick",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+   "link": "/Mist_Grass_Wick"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "old_handguard",
+   "name": "Old Handguard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+   "link": "/Old_Handguard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "ominous_mask",
+   "name": "Ominous Mask",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Ominous_Mask.png",
+   "link": "/Ominous_Mask"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "polarizing_prism",
+   "name": "Polarizing Prism",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+   "link": "/Polarizing_Prism"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "recruits_insignia",
+   "name": "Recruit's Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+   "link": "/Recruit%27s_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "sealed_scroll",
+   "name": "Sealed Scroll",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+   "link": "/Sealed_Scroll"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "sergeants_insignia",
+   "name": "Sergeant's Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+   "link": "/Sergeant%27s_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "sharp_arrowhead",
+   "name": "Sharp Arrowhead",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+   "link": "/Sharp_Arrowhead"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "shimmering_nectar",
+   "name": "Shimmering Nectar",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+   "link": "/Shimmering_Nectar"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "silver_raven_insignia",
+   "name": "Silver Raven Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+   "link": "/Silver_Raven_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "slime_concentrate",
+   "name": "Slime Concentrate",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Slime_Concentrate.png",
+   "link": "/Slime_Concentrate"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "slime_condensate",
+   "name": "Slime Condensate",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
+   "link": "/Slime_Condensate"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "slime_secretions",
+   "name": "Slime Secretions",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Slime_Secretions.png",
+   "link": "/Slime_Secretions"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "spectral_heart",
+   "name": "Spectral Heart",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+   "link": "/Spectral_Heart"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "spectral_husk",
+   "name": "Spectral Husk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+   "link": "/Spectral_Husk"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "spectral_nucleus",
+   "name": "Spectral Nucleus",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Spectral_Nucleus.png",
+   "link": "/Spectral_Nucleus"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "stained_mask",
+   "name": "Stained Mask",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+   "link": "/Stained_Mask"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "sturdy_bone_shard",
+   "name": "Sturdy Bone Shard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+   "link": "/Sturdy_Bone_Shard"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "treasure_hoarder_insignia",
+   "name": "Treasure Hoarder Insignia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+   "link": "/Treasure_Hoarder_Insignia"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "weathered_arrowhead",
+   "name": "Weathered Arrowhead",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Weathered_Arrowhead.png",
+   "link": "/Weathered_Arrowhead"
+  },
+  {
+   "type": "common_ascension_materials",
+   "id": "whopperflower_nectar",
+   "name": "Whopperflower Nectar",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+   "link": "/Whopperflower_Nectar"
+  },
+  {
+   "type": "character_exp_materials",
+   "id": "adventurers_experience",
+   "name": "Adventurer's Experience",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+   "link": "/Adventurer%27s_Experience"
+  },
+  {
+   "type": "character_exp_materials",
+   "id": "heros_wit",
+   "name": "Hero's Wit",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+   "link": "/Hero%27s_Wit"
+  },
+  {
+   "type": "character_exp_materials",
+   "id": "wanderers_advice",
+   "name": "Wanderer's Advice",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+   "link": "/Wanderer%27s_Advice"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "agnidus_agate_chunk",
+   "name": "Agnidus Agate Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Agnidus_Agate_Chunk.png",
+   "link": "/Agnidus_Agate_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "agnidus_agate_fragment",
+   "name": "Agnidus Agate Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Agnidus_Agate_Fragment.png",
+   "link": "/Agnidus_Agate_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "agnidus_agate_gemstone",
+   "name": "Agnidus Agate Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Agnidus_Agate_Gemstone.png",
+   "link": "/Agnidus_Agate_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "agnidus_agate_sliver",
+   "name": "Agnidus Agate Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png",
+   "link": "/Agnidus_Agate_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "basalt_pillar",
+   "name": "Basalt Pillar",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+   "link": "/Basalt_Pillar"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "brilliant_diamond_chunk",
+   "name": "Brilliant Diamond Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Brilliant_Diamond_Chunk.png",
+   "link": "/Brilliant_Diamond_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "brilliant_diamond_fragment",
+   "name": "Brilliant Diamond Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Brilliant_Diamond_Fragment.png",
+   "link": "/Brilliant_Diamond_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "brilliant_diamond_gemstone",
+   "name": "Brilliant Diamond Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+   "link": "/Brilliant_Diamond_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "brilliant_diamond_sliver",
+   "name": "Brilliant Diamond Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+   "link": "/Brilliant_Diamond_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "cleansing_heart",
+   "name": "Cleansing Heart",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+   "link": "/Cleansing_Heart"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "crystalline_bloom",
+   "name": "Crystalline Bloom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Crystalline_Bloom.png",
+   "link": "/Crystalline_Bloom"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "dew_of_repudiation",
+   "name": "Dew of Repudiation",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Dew_of_Repudiation.png",
+   "link": "/Dew_of_Repudiation"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "everflame_seed",
+   "name": "Everflame Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+   "link": "/Everflame_Seed"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "hoarfrost_core",
+   "name": "Hoarfrost Core",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Hoarfrost_Core.png",
+   "link": "/Hoarfrost_Core"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "hurricane_seed",
+   "name": "Hurricane Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Hurricane_Seed.png",
+   "link": "/Hurricane_Seed"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "juvenile_jade",
+   "name": "Juvenile Jade",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Juvenile_Jade.png",
+   "link": "/Juvenile_Jade"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "lightning_prism",
+   "name": "Lightning Prism",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+   "link": "/Lightning_Prism"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "marionette_core",
+   "name": "Marionette Core",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Marionette_Core.png",
+   "link": "/Marionette_Core"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "perpetual_heart",
+   "name": "Perpetual Heart",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+   "link": "/Perpetual_Heart"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "prithiva_topaz_chunk",
+   "name": "Prithiva Topaz Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+   "link": "/Prithiva_Topaz_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "prithiva_topaz_fragment",
+   "name": "Prithiva Topaz Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+   "link": "/Prithiva_Topaz_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "prithiva_topaz_gemstone",
+   "name": "Prithiva Topaz Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+   "link": "/Prithiva_Topaz_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "prithiva_topaz_sliver",
+   "name": "Prithiva Topaz Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+   "link": "/Prithiva_Topaz_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "riftborn_regalia",
+   "name": "Riftborn Regalia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Riftborn_Regalia.png",
+   "link": "/Riftborn_Regalia"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "shivada_jade_chunk",
+   "name": "Shivada Jade Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+   "link": "/Shivada_Jade_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "shivada_jade_fragment",
+   "name": "Shivada Jade Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png",
+   "link": "/Shivada_Jade_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "shivada_jade_gemstone",
+   "name": "Shivada Jade Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Shivada_Jade_Gemstone.png",
+   "link": "/Shivada_Jade_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "shivada_jade_sliver",
+   "name": "Shivada Jade Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png",
+   "link": "/Shivada_Jade_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "smoldering_pearl",
+   "name": "Smoldering Pearl",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Smoldering_Pearl.png",
+   "link": "/Smoldering_Pearl"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "storm_beads",
+   "name": "Storm Beads",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+   "link": "/Storm_Beads"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vajrada_amethyst_chunk",
+   "name": "Vajrada Amethyst Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Vajrada_Amethyst_Chunk.png",
+   "link": "/Vajrada_Amethyst_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vajrada_amethyst_fragment",
+   "name": "Vajrada Amethyst Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Vajrada_Amethyst_Fragment.png",
+   "link": "/Vajrada_Amethyst_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vajrada_amethyst_gemstone",
+   "name": "Vajrada Amethyst Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+   "link": "/Vajrada_Amethyst_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vajrada_amethyst_sliver",
+   "name": "Vajrada Amethyst Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png",
+   "link": "/Vajrada_Amethyst_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "varunada_lazurite_chunk",
+   "name": "Varunada Lazurite Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Varunada_Lazurite_Chunk.png",
+   "link": "/Varunada_Lazurite_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "varunada_lazurite_fragment",
+   "name": "Varunada Lazurite Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Varunada_Lazurite_Fragment.png",
+   "link": "/Varunada_Lazurite_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "varunada_lazurite_gemstone",
+   "name": "Varunada Lazurite Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Varunada_Lazurite_Gemstone.png",
+   "link": "/Varunada_Lazurite_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "varunada_lazurite_sliver",
+   "name": "Varunada Lazurite Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+   "link": "/Varunada_Lazurite_Sliver"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vayuda_turquoise_chunk",
+   "name": "Vayuda Turquoise Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+   "link": "/Vayuda_Turquoise_Chunk"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vayuda_turquoise_fragment",
+   "name": "Vayuda Turquoise Fragment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+   "link": "/Vayuda_Turquoise_Fragment"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vayuda_turquoise_gemstone",
+   "name": "Vayuda Turquoise Gemstone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+   "link": "/Vayuda_Turquoise_Gemstone"
+  },
+  {
+   "type": "character_ascension_materials",
+   "id": "vayuda_turquoise_sliver",
+   "name": "Vayuda Turquoise Sliver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png",
+   "link": "/Vayuda_Turquoise_Sliver"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "ashen_heart",
+   "name": "Ashen Heart",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Ashen_Heart.png",
+   "link": "/Ashen_Heart"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "bloodjade_branch",
+   "name": "Bloodjade Branch",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+   "link": "/Bloodjade_Branch"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "crown_of_insight",
+   "name": "Crown of Insight",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+   "link": "/Crown_of_Insight"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "dragon_lords_crown",
+   "name": "Dragon Lord's Crown",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+   "link": "/Dragon_Lord%27s_Crown"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "dvalins_claw",
+   "name": "Dvalin's Claw",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+   "link": "/Dvalin%27s_Claw"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "dvalins_plume",
+   "name": "Dvalin's Plume",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
+   "link": "/Dvalin%27s_Plume"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "dvalins_sigh",
+   "name": "Dvalin's Sigh",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+   "link": "/Dvalin%27s_Sigh"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "gilded_scale",
+   "name": "Gilded Scale",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Gilded_Scale.png",
+   "link": "/Gilded_Scale"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_ballad",
+   "name": "Guide to Ballad",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+   "link": "/Guide_to_Ballad"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_diligence",
+   "name": "Guide to Diligence",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Guide_to_Diligence.png",
+   "link": "/Guide_to_Diligence"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_elegance",
+   "name": "Guide to Elegance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Guide_to_Elegance.png",
+   "link": "/Guide_to_Elegance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_freedom",
+   "name": "Guide to Freedom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Guide_to_Freedom.png",
+   "link": "/Guide_to_Freedom"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_gold",
+   "name": "Guide to Gold",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Guide_to_Gold.png",
+   "link": "/Guide_to_Gold"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_light",
+   "name": "Guide to Light",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Guide_to_Light.png",
+   "link": "/Guide_to_Light"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_prosperity",
+   "name": "Guide to Prosperity",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+   "link": "/Guide_to_Prosperity"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_resistance",
+   "name": "Guide to Resistance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Guide_to_Resistance.png",
+   "link": "/Guide_to_Resistance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "guide_to_transience",
+   "name": "Guide to Transience",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Guide_to_Transience.png",
+   "link": "/Guide_to_Transience"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "hellfire_butterfly",
+   "name": "Hellfire Butterfly",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Hellfire_Butterfly.png",
+   "link": "/Hellfire_Butterfly"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "molten_moment",
+   "name": "Molten Moment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Molten_Moment.png",
+   "link": "/Molten_Moment"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_ballad",
+   "name": "Philosophies of Ballad",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+   "link": "/Philosophies_of_Ballad"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_diligence",
+   "name": "Philosophies of Diligence",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+   "link": "/Philosophies_of_Diligence"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_elegance",
+   "name": "Philosophies of Elegance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+   "link": "/Philosophies_of_Elegance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_freedom",
+   "name": "Philosophies of Freedom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Philosophies_of_Freedom.png",
+   "link": "/Philosophies_of_Freedom"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_gold",
+   "name": "Philosophies of Gold",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+   "link": "/Philosophies_of_Gold"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_light",
+   "name": "Philosophies of Light",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+   "link": "/Philosophies_of_Light"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_prosperity",
+   "name": "Philosophies of Prosperity",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Philosophies_of_Prosperity.png",
+   "link": "/Philosophies_of_Prosperity"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_resistance",
+   "name": "Philosophies of Resistance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+   "link": "/Philosophies_of_Resistance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "philosophies_of_transience",
+   "name": "Philosophies of Transience",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+   "link": "/Philosophies_of_Transience"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "ring_of_boreas",
+   "name": "Ring of Boreas",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+   "link": "/Ring_of_Boreas"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "shadow_of_the_warrior",
+   "name": "Shadow of the Warrior",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Shadow_of_the_Warrior.png",
+   "link": "/Shadow_of_the_Warrior"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "shard_of_a_foul_legacy",
+   "name": "Shard of a Foul Legacy",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+   "link": "/Shard_of_a_Foul_Legacy"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "spirit_locket_of_boreas",
+   "name": "Spirit Locket of Boreas",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+   "link": "/Spirit_Locket_of_Boreas"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "tail_of_boreas",
+   "name": "Tail of Boreas",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
+   "link": "/Tail_of_Boreas"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_ballad",
+   "name": "Teachings of Ballad",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+   "link": "/Teachings_of_Ballad"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_diligence",
+   "name": "Teachings of Diligence",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+   "link": "/Teachings_of_Diligence"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_elegance",
+   "name": "Teachings of Elegance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+   "link": "/Teachings_of_Elegance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_freedom",
+   "name": "Teachings of Freedom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+   "link": "/Teachings_of_Freedom"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_gold",
+   "name": "Teachings of Gold",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+   "link": "/Teachings_of_Gold"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_light",
+   "name": "Teachings of Light",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+   "link": "/Teachings_of_Light"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_prosperity",
+   "name": "Teachings of Prosperity",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+   "link": "/Teachings_of_Prosperity"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_resistance",
+   "name": "Teachings of Resistance",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+   "link": "/Teachings_of_Resistance"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "teachings_of_transience",
+   "name": "Teachings of Transience",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+   "link": "/Teachings_of_Transience"
+  },
+  {
+   "type": "character_talent_materials",
+   "id": "tusk_of_monoceros_caeli",
+   "name": "Tusk of Monoceros Caeli",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+   "link": "/Tusk_of_Monoceros_Caeli"
+  },
+  {
+   "type": "weapon_enhancement_materials",
+   "id": "enhancement_ore",
+   "name": "Enhancement Ore",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png",
+   "link": "/Enhancement_Ore"
+  },
+  {
+   "type": "weapon_enhancement_materials",
+   "id": "fine_enhancement_ore",
+   "name": "Fine Enhancement Ore",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png",
+   "link": "/Fine_Enhancement_Ore"
+  },
+  {
+   "type": "weapon_enhancement_materials",
+   "id": "mystic_enhancement_ore",
+   "name": "Mystic Enhancement Ore",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png",
+   "link": "/Mystic_Enhancement_Ore"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "bit_of_aerosiderite",
+   "name": "Bit of Aerosiderite",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+   "link": "/Bit_of_Aerosiderite"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "boreal_wolfs_broken_fang",
+   "name": "Boreal Wolf's Broken Fang",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+   "link": "/Boreal_Wolf%27s_Broken_Fang"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "boreal_wolfs_cracked_tooth",
+   "name": "Boreal Wolf's Cracked Tooth",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Boreal_Wolf%27s_Cracked_Tooth.png",
+   "link": "/Boreal_Wolf%27s_Cracked_Tooth"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "boreal_wolfs_milk_tooth",
+   "name": "Boreal Wolf's Milk Tooth",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+   "link": "/Boreal_Wolf%27s_Milk_Tooth"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "boreal_wolfs_nostalgia",
+   "name": "Boreal Wolf's Nostalgia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+   "link": "/Boreal_Wolf%27s_Nostalgia"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "chains_of_the_dandelion_gladiator",
+   "name": "Chains of the Dandelion Gladiator",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
+   "link": "/Chains_of_the_Dandelion_Gladiator"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "chunk_of_aerosiderite",
+   "name": "Chunk of Aerosiderite",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Chunk_of_Aerosiderite.png",
+   "link": "/Chunk_of_Aerosiderite"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "coral_branch_of_a_distant_sea",
+   "name": "Coral Branch of a Distant Sea",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+   "link": "/Coral_Branch_of_a_Distant_Sea"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "debris_of_decarabians_city",
+   "name": "Debris of Decarabian's City",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
+   "link": "/Debris_of_Decarabian%27s_City"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "divine_body_from_guyun",
+   "name": "Divine Body from Guyun",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Divine_Body_from_Guyun.png",
+   "link": "/Divine_Body_from_Guyun"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "dream_of_the_dandelion_gladiator",
+   "name": "Dream of the Dandelion Gladiator",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Dream_of_the_Dandelion_Gladiator.png",
+   "link": "/Dream_of_the_Dandelion_Gladiator"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "fetters_of_the_dandelion_gladiator",
+   "name": "Fetters of the Dandelion Gladiator",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Fetters_of_the_Dandelion_Gladiator.png",
+   "link": "/Fetters_of_the_Dandelion_Gladiator"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "fragment_of_decarabians_epic",
+   "name": "Fragment of Decarabian's Epic",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+   "link": "/Fragment_of_Decarabian%27s_Epic"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "golden_branch_of_a_distant_sea",
+   "name": "Golden Branch of a Distant Sea",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Golden_Branch_of_a_Distant_Sea.png",
+   "link": "/Golden_Branch_of_a_Distant_Sea"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "grain_of_aerosiderite",
+   "name": "Grain of Aerosiderite",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+   "link": "/Grain_of_Aerosiderite"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "jade_branch_of_a_distant_sea",
+   "name": "Jade Branch of a Distant Sea",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Jade_Branch_of_a_Distant_Sea.png",
+   "link": "/Jade_Branch_of_a_Distant_Sea"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "jeweled_branch_of_a_distant_sea",
+   "name": "Jeweled Branch of a Distant Sea",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+   "link": "/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "luminous_sands_from_guyun",
+   "name": "Luminous Sands from Guyun",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+   "link": "/Luminous_Sands_from_Guyun"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "lustrous_stone_from_guyun",
+   "name": "Lustrous Stone from Guyun",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Lustrous_Stone_from_Guyun.png",
+   "link": "/Lustrous_Stone_from_Guyun"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mask_of_the_kijin",
+   "name": "Mask of the Kijin",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Item_Mask_of_the_Kijin.png",
+   "link": "/Mask_of_the_Kijin"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mask_of_the_one_horned",
+   "name": "Mask of the One-Horned",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Mask_of_the_One-Horned.png",
+   "link": "/Mask_of_the_One-Horned"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mask_of_the_tigers_bite",
+   "name": "Mask of the Tiger's Bite",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Mask_of_the_Tiger%27s_Bite.png",
+   "link": "/Mask_of_the_Tiger%27s_Bite"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mask_of_the_wicked_lieutenant",
+   "name": "Mask of the Wicked Lieutenant",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Mask_of_the_Wicked_Lieutenant.png",
+   "link": "/Mask_of_the_Wicked_Lieutenant"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mist_veiled_gold_elixir",
+   "name": "Mist Veiled Gold Elixir",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Mist_Veiled_Gold_Elixir.png",
+   "link": "/Mist_Veiled_Gold_Elixir"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mist_veiled_lead_elixir",
+   "name": "Mist Veiled Lead Elixir",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Mist_Veiled_Lead_Elixir.png",
+   "link": "/Mist_Veiled_Lead_Elixir"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mist_veiled_mercury_elixir",
+   "name": "Mist Veiled Mercury Elixir",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
+   "link": "/Mist_Veiled_Mercury_Elixir"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "mist_veiled_primo_elixir",
+   "name": "Mist Veiled Primo Elixir",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+   "link": "/Mist_Veiled_Primo_Elixir"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "narukamis_affection",
+   "name": "Narukami's Affection",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Item_Narukami%27s_Affection.png",
+   "link": "/Narukami%27s_Affection"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "narukamis_joy",
+   "name": "Narukami's Joy",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+   "link": "/Narukami%27s_Joy"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "narukamis_valor",
+   "name": "Narukami's Valor",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Narukami%27s_Valor.png",
+   "link": "/Narukami%27s_Valor"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "narukamis_wisdom",
+   "name": "Narukami's Wisdom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Narukami%27s_Wisdom.png",
+   "link": "/Narukami%27s_Wisdom"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "piece_of_aerosiderite",
+   "name": "Piece of Aerosiderite",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+   "link": "/Piece_of_Aerosiderite"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "relic_from_guyun",
+   "name": "Relic from Guyun",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Relic_from_Guyun.png",
+   "link": "/Relic_from_Guyun"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "scattered_piece_of_decarabians_dream",
+   "name": "Scattered Piece of Decarabian's Dream",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Scattered_Piece_of_Decarabian%27s_Dream.png",
+   "link": "/Scattered_Piece_of_Decarabian%27s_Dream"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "shackles_of_the_dandelion_gladiator",
+   "name": "Shackles of the Dandelion Gladiator",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+   "link": "/Shackles_of_the_Dandelion_Gladiator"
+  },
+  {
+   "type": "weapon_ascension_materials",
+   "id": "tile_of_decarabians_tower",
+   "name": "Tile of Decarabian's Tower",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Tile_of_Decarabian%27s_Tower.png",
+   "link": "/Tile_of_Decarabian%27s_Tower"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "\"fragments_of_innocence\"",
+   "name": "\"Fragments of Innocence\"",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Fragments_of_Innocence.png",
+   "link": "/%22Fragments_of_Innocence%22"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "\"the_visible_winds\"",
+   "name": "\"The Visible Winds\"",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_The_Visible_Winds.png",
+   "link": "/%22The_Visible_Winds%22"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "akos_sake_vessel",
+   "name": "Ako's Sake Vessel",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+   "link": "/Ako%27s_Sake_Vessel"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "alkahest",
+   "name": "Alkahest",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png",
+   "link": "/Alkahest"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "emperors_balsam",
+   "name": "Emperor's Balsam",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+   "link": "/Emperor%27s_Balsam"
+  },
+  {
+   "type": "weapon_refinement_materials",
+   "id": "festering_dragon_marrow",
+   "name": "Festering Dragon Marrow",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+   "link": "/Festering_Dragon_Marrow"
+  },
+  {
+   "type": "artifact_materials",
+   "id": "sanctifying_essence",
+   "name": "Sanctifying Essence",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Sanctifying_Essence.png",
+   "link": "/Sanctifying_Essence"
+  },
+  {
+   "type": "artifact_materials",
+   "id": "sanctifying_unction",
+   "name": "Sanctifying Unction",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Sanctifying_Unction.png",
+   "link": "/Sanctifying_Unction"
+  },
+  {
+   "type": "local_specialties",
+   "id": "amakumo_fruit",
+   "name": "Amakumo Fruit",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+   "link": "/Amakumo_Fruit"
+  },
+  {
+   "type": "local_specialties",
+   "id": "calla_lily",
+   "name": "Calla Lily",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+   "link": "/Calla_Lily"
+  },
+  {
+   "type": "local_specialties",
+   "id": "cecilia",
+   "name": "Cecilia",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+   "link": "/Cecilia"
+  },
+  {
+   "type": "local_specialties",
+   "id": "cor_lapis",
+   "name": "Cor Lapis",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+   "link": "/Cor_Lapis"
+  },
+  {
+   "type": "local_specialties",
+   "id": "crystal_marrow",
+   "name": "Crystal Marrow",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+   "link": "/Crystal_Marrow"
+  },
+  {
+   "type": "local_specialties",
+   "id": "dandelion_seed",
+   "name": "Dandelion Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+   "link": "/Dandelion_Seed"
+  },
+  {
+   "type": "local_specialties",
+   "id": "dendrobium",
+   "name": "Dendrobium",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+   "link": "/Dendrobium"
+  },
+  {
+   "type": "local_specialties",
+   "id": "fluorescent_fungus",
+   "name": "Fluorescent Fungus",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png",
+   "link": "/Fluorescent_Fungus"
+  },
+  {
+   "type": "local_specialties",
+   "id": "glaze_lily",
+   "name": "Glaze Lily",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+   "link": "/Glaze_Lily"
+  },
+  {
+   "type": "local_specialties",
+   "id": "jueyun_chili",
+   "name": "Jueyun Chili",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+   "link": "/Jueyun_Chili"
+  },
+  {
+   "type": "local_specialties",
+   "id": "naku_weed",
+   "name": "Naku Weed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+   "link": "/Naku_Weed"
+  },
+  {
+   "type": "local_specialties",
+   "id": "noctilucous_jade",
+   "name": "Noctilucous Jade",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+   "link": "/Noctilucous_Jade"
+  },
+  {
+   "type": "local_specialties",
+   "id": "onikabuto",
+   "name": "Onikabuto",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+   "link": "/Onikabuto"
+  },
+  {
+   "type": "local_specialties",
+   "id": "philanemo_mushroom",
+   "name": "Philanemo Mushroom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+   "link": "/Philanemo_Mushroom"
+  },
+  {
+   "type": "local_specialties",
+   "id": "qingxin",
+   "name": "Qingxin",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+   "link": "/Qingxin"
+  },
+  {
+   "type": "local_specialties",
+   "id": "sakura_bloom",
+   "name": "Sakura Bloom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+   "link": "/Sakura_Bloom"
+  },
+  {
+   "type": "local_specialties",
+   "id": "sango_pearl",
+   "name": "Sango Pearl",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+   "link": "/Sango_Pearl"
+  },
+  {
+   "type": "local_specialties",
+   "id": "sea_ganoderma",
+   "name": "Sea Ganoderma",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png",
+   "link": "/Sea_Ganoderma"
+  },
+  {
+   "type": "local_specialties",
+   "id": "silk_flower",
+   "name": "Silk Flower",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+   "link": "/Silk_Flower"
+  },
+  {
+   "type": "local_specialties",
+   "id": "small_lamp_grass",
+   "name": "Small Lamp Grass",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+   "link": "/Small_Lamp_Grass"
+  },
+  {
+   "type": "local_specialties",
+   "id": "starconch",
+   "name": "Starconch",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+   "link": "/Starconch"
+  },
+  {
+   "type": "local_specialties",
+   "id": "valberry",
+   "name": "Valberry",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+   "link": "/Valberry"
+  },
+  {
+   "type": "local_specialties",
+   "id": "violetgrass",
+   "name": "Violetgrass",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+   "link": "/Violetgrass"
+  },
+  {
+   "type": "local_specialties",
+   "id": "windwheel_aster",
+   "name": "Windwheel Aster",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+   "link": "/Windwheel_Aster"
+  },
+  {
+   "type": "local_specialties",
+   "id": "wolfhook",
+   "name": "Wolfhook",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+   "link": "/Wolfhook"
+  },
+  {
+   "type": "bait",
+   "id": "fake_fly_bait",
+   "name": "Fake Fly Bait",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png",
+   "link": "/Fake_Fly_Bait"
+  },
+  {
+   "type": "bait",
+   "id": "false_worm_bait",
+   "name": "False Worm Bait",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_False_Worm_Bait.png",
+   "link": "/False_Worm_Bait"
+  },
+  {
+   "type": "bait",
+   "id": "fruit_paste_bait",
+   "name": "Fruit Paste Bait",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Fruit_Paste_Bait.png",
+   "link": "/Fruit_Paste_Bait"
+  },
+  {
+   "type": "bait",
+   "id": "glowgrass_bait",
+   "name": "Glowgrass Bait",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png",
+   "link": "/Glowgrass_Bait"
+  },
+  {
+   "type": "bait",
+   "id": "redrot_bait",
+   "name": "Redrot Bait",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Redrot_Bait.png",
+   "link": "/Redrot_Bait"
+  },
+  {
+   "type": "fish",
+   "id": "abiding_angelfish",
+   "name": "Abiding Angelfish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Abiding_Angelfish.png",
+   "link": "/Abiding_Angelfish"
+  },
+  {
+   "type": "fish",
+   "id": "aizen_medaka",
+   "name": "Aizen Medaka",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Aizen_Medaka.png",
+   "link": "/Aizen_Medaka"
+  },
+  {
+   "type": "fish",
+   "id": "akai_maou",
+   "name": "Akai Maou",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Akai_Maou.png",
+   "link": "/Akai_Maou"
+  },
+  {
+   "type": "fish",
+   "id": "betta",
+   "name": "Betta",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Betta.png",
+   "link": "/Betta"
+  },
+  {
+   "type": "fish",
+   "id": "bitter_pufferfish",
+   "name": "Bitter Pufferfish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+   "link": "/Bitter_Pufferfish"
+  },
+  {
+   "type": "fish",
+   "id": "brown_shirakodai",
+   "name": "Brown Shirakodai",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+   "link": "/Brown_Shirakodai"
+  },
+  {
+   "type": "fish",
+   "id": "crystalfish",
+   "name": "Crystalfish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Crystalfish.png",
+   "link": "/Crystalfish"
+  },
+  {
+   "type": "fish",
+   "id": "dawncatcher",
+   "name": "Dawncatcher",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Dawncatcher.png",
+   "link": "/Dawncatcher"
+  },
+  {
+   "type": "fish",
+   "id": "file_item_divda_ray_png",
+   "name": "File:Item Divda Ray.png",
+   "icon": "https://www.seekpng.com/png/full/825-8254341_404-error-not-found.png",
+   "link": "/Special:Upload?wpDestFile=Item_Divda_Ray.png"
+  },
+  {
+   "type": "fish",
+   "id": "file_item_formalo_ray_png",
+   "name": "File:Item Formalo Ray.png",
+   "icon": "https://www.seekpng.com/png/full/825-8254341_404-error-not-found.png",
+   "link": "/Special:Upload?wpDestFile=Item_Formalo_Ray.png"
+  },
+  {
+   "type": "fish",
+   "id": "glaze_medaka",
+   "name": "Glaze Medaka",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Glaze_Medaka.png",
+   "link": "/Glaze_Medaka"
+  },
+  {
+   "type": "fish",
+   "id": "golden_koi",
+   "name": "Golden Koi",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Golden_Koi.png",
+   "link": "/Golden_Koi"
+  },
+  {
+   "type": "fish",
+   "id": "lunged_stickleback",
+   "name": "Lunged Stickleback",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Lunged_Stickleback.png",
+   "link": "/Lunged_Stickleback"
+  },
+  {
+   "type": "fish",
+   "id": "medaka",
+   "name": "Medaka",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Medaka.png",
+   "link": "/Medaka"
+  },
+  {
+   "type": "fish",
+   "id": "pufferfish",
+   "name": "Pufferfish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Pufferfish.png",
+   "link": "/Pufferfish"
+  },
+  {
+   "type": "fish",
+   "id": "purple_shirakodai",
+   "name": "Purple Shirakodai",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Purple_Shirakodai.png",
+   "link": "/Purple_Shirakodai"
+  },
+  {
+   "type": "fish",
+   "id": "raimei_angelfish",
+   "name": "Raimei Angelfish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Raimei_Angelfish.png",
+   "link": "/Raimei_Angelfish"
+  },
+  {
+   "type": "fish",
+   "id": "rusty_koi",
+   "name": "Rusty Koi",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Rusty_Koi.png",
+   "link": "/Rusty_Koi"
+  },
+  {
+   "type": "fish",
+   "id": "snowstrider",
+   "name": "Snowstrider",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Snowstrider.png",
+   "link": "/Snowstrider"
+  },
+  {
+   "type": "fish",
+   "id": "sweet_flower_medaka",
+   "name": "Sweet-Flower Medaka",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Item_Sweet-Flower_Medaka.png",
+   "link": "/Sweet-Flower_Medaka"
+  },
+  {
+   "type": "fish",
+   "id": "tea_colored_shirakodai",
+   "name": "Tea-Colored Shirakodai",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Tea-Colored_Shirakodai.png",
+   "link": "/Tea-Colored_Shirakodai"
+  },
+  {
+   "type": "fish",
+   "id": "venomspine_fish",
+   "name": "Venomspine Fish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Venomspine_Fish.png",
+   "link": "/Venomspine_Fish"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "almond",
+   "name": "Almond",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+   "link": "/Almond"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "bacon",
+   "name": "Bacon",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+   "link": "/Bacon"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "bamboo_shoot",
+   "name": "Bamboo Shoot",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Bamboo_Shoot.png",
+   "link": "/Bamboo_Shoot"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "berry",
+   "name": "Berry",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Berry.png",
+   "link": "/Berry"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "bird_egg",
+   "name": "Bird Egg",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Bird_Egg.png",
+   "link": "/Bird_Egg"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "butter",
+   "name": "Butter",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Butter.png",
+   "link": "/Butter"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "cabbage",
+   "name": "Cabbage",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+   "link": "/Cabbage"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "carrot",
+   "name": "Carrot",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Item_Carrot.png",
+   "link": "/Carrot"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "cheese",
+   "name": "Cheese",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+   "link": "/Cheese"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "chilled_meat",
+   "name": "Chilled Meat",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+   "link": "/Chilled_Meat"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "crab",
+   "name": "Crab",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Crab.png",
+   "link": "/Crab"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "crab_roe",
+   "name": "Crab Roe",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+   "link": "/Crab_Roe"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "cream",
+   "name": "Cream",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+   "link": "/Cream"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "fish",
+   "name": "Fish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+   "link": "/Fish"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "flour",
+   "name": "Flour",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Flour.png",
+   "link": "/Flour"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "fowl",
+   "name": "Fowl",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+   "link": "/Fowl"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "ham",
+   "name": "Ham",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Ham.png",
+   "link": "/Ham"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "horsetail",
+   "name": "Horsetail",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+   "link": "/Horsetail"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "jam",
+   "name": "Jam",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+   "link": "/Jam"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "lavender_melon",
+   "name": "Lavender Melon",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+   "link": "/Lavender_Melon"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "lotus_head",
+   "name": "Lotus Head",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Lotus_Head.png",
+   "link": "/Lotus_Head"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "matsutake",
+   "name": "Matsutake",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Matsutake.png",
+   "link": "/Matsutake"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "milk",
+   "name": "Milk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Milk.png",
+   "link": "/Milk"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "mint",
+   "name": "Mint",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+   "link": "/Mint"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "mushroom",
+   "name": "Mushroom",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+   "link": "/Mushroom"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "onion",
+   "name": "Onion",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+   "link": "/Onion"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "pepper",
+   "name": "Pepper",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+   "link": "/Pepper"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "pinecone",
+   "name": "Pinecone",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+   "link": "/Pinecone"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "potato",
+   "name": "Potato",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+   "link": "/Potato"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "radish",
+   "name": "Radish",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+   "link": "/Radish"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "raw_meat",
+   "name": "Raw Meat",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Raw_Meat.png",
+   "link": "/Raw_Meat"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "rice",
+   "name": "Rice",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+   "link": "/Rice"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "salt",
+   "name": "Salt",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Salt.png",
+   "link": "/Salt"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "sausage",
+   "name": "Sausage",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Sausage.png",
+   "link": "/Sausage"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "seagrass",
+   "name": "Seagrass",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+   "link": "/Seagrass"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "shrimp_meat",
+   "name": "Shrimp Meat",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+   "link": "/Shrimp_Meat"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "smoked_fowl",
+   "name": "Smoked Fowl",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Smoked_Fowl.png",
+   "link": "/Smoked_Fowl"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "snapdragon",
+   "name": "Snapdragon",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+   "link": "/Snapdragon"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "sugar",
+   "name": "Sugar",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+   "link": "/Sugar"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "sweet_flower",
+   "name": "Sweet Flower",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+   "link": "/Sweet_Flower"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "tofu",
+   "name": "Tofu",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Tofu.png",
+   "link": "/Tofu"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "tomato",
+   "name": "Tomato",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+   "link": "/Tomato"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "unagi_meat",
+   "name": "Unagi Meat",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Unagi_Meat.png",
+   "link": "/Unagi_Meat"
+  },
+  {
+   "type": "cooking_ingredients",
+   "id": "wheat",
+   "name": "Wheat",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+   "link": "/Wheat"
+  },
+  {
+   "type": "forging_materials",
+   "id": "amethyst_lump",
+   "name": "Amethyst Lump",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+   "link": "/Amethyst_Lump"
+  },
+  {
+   "type": "forging_materials",
+   "id": "crystal_chunk",
+   "name": "Crystal Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Crystal_Chunk.png",
+   "link": "/Crystal_Chunk"
+  },
+  {
+   "type": "forging_materials",
+   "id": "iron_chunk",
+   "name": "Iron Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Iron_Chunk.png",
+   "link": "/Iron_Chunk"
+  },
+  {
+   "type": "forging_materials",
+   "id": "magical_crystal_chunk",
+   "name": "Magical Crystal Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+   "link": "/Magical_Crystal_Chunk"
+  },
+  {
+   "type": "forging_materials",
+   "id": "northlander_bow_billet",
+   "name": "Northlander Bow Billet",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Northlander_Bow_Billet.png",
+   "link": "/Northlander_Bow_Billet"
+  },
+  {
+   "type": "forging_materials",
+   "id": "northlander_catalyst_billet",
+   "name": "Northlander Catalyst Billet",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+   "link": "/Northlander_Catalyst_Billet"
+  },
+  {
+   "type": "forging_materials",
+   "id": "northlander_claymore_billet",
+   "name": "Northlander Claymore Billet",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Northlander_Claymore_Billet.png",
+   "link": "/Northlander_Claymore_Billet"
+  },
+  {
+   "type": "forging_materials",
+   "id": "northlander_polearm_billet",
+   "name": "Northlander Polearm Billet",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Northlander_Polearm_Billet.png",
+   "link": "/Northlander_Polearm_Billet"
+  },
+  {
+   "type": "forging_materials",
+   "id": "northlander_sword_billet",
+   "name": "Northlander Sword Billet",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Northlander_Sword_Billet.png",
+   "link": "/Northlander_Sword_Billet"
+  },
+  {
+   "type": "forging_materials",
+   "id": "starsilver",
+   "name": "Starsilver",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Starsilver.png",
+   "link": "/Starsilver"
+  },
+  {
+   "type": "forging_materials",
+   "id": "white_iron_chunk",
+   "name": "White Iron Chunk",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+   "link": "/White_Iron_Chunk"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "butterfly_wings",
+   "name": "Butterfly Wings",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+   "link": "/Butterfly_Wings"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "crystal_core",
+   "name": "Crystal Core",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Crystal_Core.png",
+   "link": "/Crystal_Core"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "electro_crystal",
+   "name": "Electro Crystal",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Electro_Crystal.png",
+   "link": "/Electro_Crystal"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "flaming_flower_stamen",
+   "name": "Flaming Flower Stamen",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+   "link": "/Flaming_Flower_Stamen"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "frog__material",
+   "name": "Frog (Material)",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+   "link": "/Frog_(Material)"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "lantern_fiber",
+   "name": "Lantern Fiber",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+   "link": "/Lantern_Fiber"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "lizard_tail",
+   "name": "Lizard Tail",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+   "link": "/Lizard_Tail"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "loach_pearl",
+   "name": "Loach Pearl",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+   "link": "/Loach_Pearl"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "luminescent_spine",
+   "name": "Luminescent Spine",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+   "link": "/Luminescent_Spine"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "mist_flower_corolla",
+   "name": "Mist Flower Corolla",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+   "link": "/Mist_Flower_Corolla"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "plaustrite_shard",
+   "name": "Plaustrite Shard",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+   "link": "/Plaustrite_Shard"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "strange_tooth",
+   "name": "Strange Tooth",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Strange_Tooth.png",
+   "link": "/Strange_Tooth"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "vitalized_dragontooth",
+   "name": "Vitalized Dragontooth",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+   "link": "/Vitalized_Dragontooth"
+  },
+  {
+   "type": "uncategorized_materials",
+   "id": "wick_material",
+   "name": "Wick Material",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Wick_Material.png",
+   "link": "/Wick_Material"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "aralia_wood",
+   "name": "Aralia Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Aralia_Wood.png",
+   "link": "/Aralia_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "bamboo_segment",
+   "name": "Bamboo Segment",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+   "link": "/Bamboo_Segment"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "birch_wood",
+   "name": "Birch Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+   "link": "/Birch_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "blue_dye",
+   "name": "Blue Dye",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Blue_Dye.png",
+   "link": "/Blue_Dye"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "cuihua_wood",
+   "name": "Cuihua Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+   "link": "/Cuihua_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "fabric",
+   "name": "Fabric",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Fabric.png",
+   "link": "/Fabric"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "fir_wood",
+   "name": "Fir Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+   "link": "/Fir_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "fragrant_cedar_wood",
+   "name": "Fragrant Cedar Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+   "link": "/Fragrant_Cedar_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "maple_wood",
+   "name": "Maple Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Maple_Wood.png",
+   "link": "/Maple_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "otogi_wood",
+   "name": "Otogi Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Otogi_Wood.png",
+   "link": "/Otogi_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "pine_wood",
+   "name": "Pine Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+   "link": "/Pine_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "red_dye",
+   "name": "Red Dye",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Red_Dye.png",
+   "link": "/Red_Dye"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "sandbearer_wood",
+   "name": "Sandbearer Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+   "link": "/Sandbearer_Wood"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "yellow_dye",
+   "name": "Yellow Dye",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Yellow_Dye.png",
+   "link": "/Yellow_Dye"
+  },
+  {
+   "type": "furnishing_materials",
+   "id": "yumemiru_wood",
+   "name": "Yumemiru Wood",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+   "link": "/Yumemiru_Wood"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "calla_lily_seed",
+   "name": "Calla Lily Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Calla_Lily_Seed.png",
+   "link": "/Calla_Lily_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "carrot_seed",
+   "name": "Carrot Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Carrot_Seed.png",
+   "link": "/Carrot_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "cecilia_seed",
+   "name": "Cecilia Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Item_Cecilia_Seed.png",
+   "link": "/Cecilia_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "dreambloom__pearbell_seed",
+   "name": "Dreambloom: Pearbell Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Dreambloom-_Pearbell_Seed.png",
+   "link": "/Dreambloom:_Pearbell_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "dreambloom__silkpod_seed",
+   "name": "Dreambloom: Silkpod Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Item_Dreambloom-_Silkpod_Seed.png",
+   "link": "/Dreambloom:_Silkpod_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "dreambloom__star_hibiscus_seed",
+   "name": "Dreambloom: Star Hibiscus Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Dreambloom-_Star_Hibiscus_Seed.png",
+   "link": "/Dreambloom:_Star_Hibiscus_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "glaze_lily_seed",
+   "name": "Glaze Lily Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Glaze_Lily_Seed.png",
+   "link": "/Glaze_Lily_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "horsetail_seed",
+   "name": "Horsetail Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Horsetail_Seed.png",
+   "link": "/Horsetail_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "jueyun_chili_seed",
+   "name": "Jueyun Chili Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili_Seed.png",
+   "link": "/Jueyun_Chili_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "lotus_seed",
+   "name": "Lotus Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Lotus_Seed.png",
+   "link": "/Lotus_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "mint_seed",
+   "name": "Mint Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Mint_Seed.png",
+   "link": "/Mint_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "mushroom_spore",
+   "name": "Mushroom Spore",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Item_Mushroom_Spore.png",
+   "link": "/Mushroom_Spore"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "naku_weed_seed",
+   "name": "Naku Weed Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Naku_Weed_Seed.png",
+   "link": "/Naku_Weed_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "qingxin_seed",
+   "name": "Qingxin Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/5f/Item_Qingxin_Seed.png",
+   "link": "/Qingxin_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "radish_seed",
+   "name": "Radish Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Radish_Seed.png",
+   "link": "/Radish_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "sea_ganoderma_cutting",
+   "name": "Sea Ganoderma Cutting",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Sea_Ganoderma_Cutting.png",
+   "link": "/Sea_Ganoderma_Cutting"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "seagrass_seed",
+   "name": "Seagrass Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Seagrass_Seed.png",
+   "link": "/Seagrass_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "silk_flower_seed",
+   "name": "Silk Flower Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Silk_Flower_Seed.png",
+   "link": "/Silk_Flower_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "small_lamp_grass_seed",
+   "name": "Small Lamp Grass Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Small_Lamp_Grass_Seed.png",
+   "link": "/Small_Lamp_Grass_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "snapdragon_seed",
+   "name": "Snapdragon Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Snapdragon_Seed.png",
+   "link": "/Snapdragon_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "sweet_flower_seed",
+   "name": "Sweet Flower Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Sweet_Flower_Seed.png",
+   "link": "/Sweet_Flower_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "valberry_seed",
+   "name": "Valberry Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Valberry_Seed.png",
+   "link": "/Valberry_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "violetgrass_seed",
+   "name": "Violetgrass Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Violetgrass_Seed.png",
+   "link": "/Violetgrass_Seed"
+  },
+  {
+   "type": "gardening_materials",
+   "id": "windwheel_aster_seed",
+   "name": "Windwheel Aster Seed",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Item_Windwheel_Aster_Seed.png",
+   "link": "/Windwheel_Aster_Seed"
+  }
+ ],
+ "fetchtime": "Wed Jan  5 00:13:09 2022"
+}
