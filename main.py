@@ -367,9 +367,29 @@ class GenshinFandomClient:
         return [i for i in items_ if i in keys]
 
 
-client = GenshinFandomClient()
-test_material = client.characters[0].navigate()
+client = GenshinFandomClient() #iniliazes the client
 
-print(test_material)
+'''
+
+----------------------------------------------
+first run caches/saves the main data from site 
+so it does not have to fetch again and again
+------------------------------------------------
+
+#   client.characters       |
+#   client.bows             |
+#   client.claymores        |
+#   client.catalysts        |
+#   client.swords           | THESE ARE LIST OF NAVIGATABLES
+#   client.polearms         |   ONLY CHARACTERS can be navigated rn 
+#   client.artifacts        |   
+#   client.materials        |
+
+
+'''
+print(client.characters[0]) # <- print character names
+test_material = client.characters[0].navigate() #fetch Character details and returns a Character object
+
+print(test_material.full_details) #<- returns dict form of all data
 
 
